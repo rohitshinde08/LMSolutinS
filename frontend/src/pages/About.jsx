@@ -2,7 +2,6 @@ export default function About() {
   return (
     <div className="text-gray-800">
       {/* ================= ABOUT US ================= */}
-      {/* ================= ABOUT US ================= */}
       <section className="px-6 md:px-8 py-20 bg-white">
         <div className="max-w-6xl mx-auto">
           {/* Heading */}
