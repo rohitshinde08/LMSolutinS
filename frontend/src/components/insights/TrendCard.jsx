@@ -8,5 +8,6 @@ export default function TrendCard({ title, dark }) {
     >
       {title}
     </div>
+    
   );
 }
