@@ -61,6 +61,12 @@ const events = [
     date: "Sep 2025",
     info: "Intro to cloud & CI/CD pipelines.",
   },
+  {
+  name: "Building Scalable APIs with FastAPI",
+  type: "Webinar",
+  date: "Oct 2025",
+  info: "Designing high-performance APIs with modern Python best practices.",
+},
 ];
 
 const trends = ["React", "FastAPI", "AWS", "DevOps", "AI","Docker"];
