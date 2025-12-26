@@ -35,5 +35,6 @@ export default function EventCard({ name, type, date, info, dark }) {
         {date}
       </p>
     </div>
+    
   );
 }

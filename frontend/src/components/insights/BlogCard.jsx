@@ -27,5 +27,6 @@ export default function BlogCard({ blog, dark }) {
         <span>{blog.date}</span>
       </div>
     </div>
+    
   );
 }

@@ -53,6 +53,7 @@ const blogs = [
 ];
 
 
+
 const events = [
   {
     name: "Cloud & DevOps Fundamentals",
